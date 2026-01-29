@@ -1,3 +1,25 @@
+# 5.1.13
+- [common] Fix trailing curly bracket in stacktrace output
+
+Thanks to [Copilot](https://github.com/Copilot)
+
+# 5.1.12
+- [common] Update Gradle to v9.3.0
+- [common] Update plugin com.android.application to v9
+
+Thanks to [renovatebot](https://github.com/renovatebot)
+
+# 5.1.11
+- [talker_flutter] Update plugin org.jetbrains.kotlin.android to v2.3.0
+- [talker_flutter] Update Gradle to v9.2.1
+
+Thanks to [renovatebot](https://github.com/renovatebot)
+
+# 5.1.10
+- [talker_flutter] Fix WebAssembly incompatible cast in download_logs_web.dart
+
+Thanks to [JanKubicek](https://github.com/JanKubicek), [Copilot](https://github.com/Copilot)
+
 # 5.1.9
 - [talker_flutter] Fix TalkerScreen stack trace display for TalkerLog objects
 
